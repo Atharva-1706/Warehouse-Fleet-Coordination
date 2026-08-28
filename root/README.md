@@ -91,7 +91,3 @@ The simulation runs on a fixed grid (configurable in `App.jsx` via `COLS`/`ROWS`
 3. Robots with critically low battery hand off their remaining tasks to an available teammate before returning to charge.
 4. New tasks are either injected manually through the UI or spawned automatically depending on the selected task mode.
 5. Fleet-wide stats (completed tasks, active robots, battery levels, etc.) are recorded each tick and rendered in the Analytics panel.
-
-## License
-
-This project does not currently specify a license. Add one (e.g. MIT) if you plan to share or open-source it.
